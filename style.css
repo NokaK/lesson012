@@ -1,0 +1,7 @@
+.purple {
+  background-color: purple;
+}
+.slider-image {
+  height: 600px;
+  object-fit: cover;
+}
